@@ -25,3 +25,10 @@ Thumbs.db
 .idea/
 .agents/
 *.code-workspace
+
+# Vite / Build outputs
+dist/
+dist-ssr/
+*.timestamp-*.mjs
+**/*.timestamp-*.mjs
+
