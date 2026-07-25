@@ -1,0 +1,5 @@
+Pillow
+pymongo[srv]
+winocr
+opencv-python
+pytesseract
